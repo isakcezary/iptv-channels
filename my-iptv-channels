@@ -39,3 +39,33 @@ https://list.iptvcat.com/my_list/s/96380c15a8efd45fa2c539cc961d44e3.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveryChannel" tvg-country="BR" tvg-language="Portuguese" tvg-logo="", Discovery Channel
 https://list.iptvcat.com/my_list/s/c5722f093c6794c609933c2645c352f5.m3u8
+
+#EXTINF:-1 tvg-id="DisneyJr" tvg-country="BR" tvg-language="Portuguese" tvg-logo="", Disney Jr
+https://list.iptvcat.com/my_list/s/af8b5b182267086ae4730f462bc280c8.m3u8
+
+#EXTINF:-1 tvg-id="DisneyXd" tvg-country="BR" tvg-language="Portuguese" tvg-logo="", Disney Xd
+https://list.iptvcat.com/my_list/s/b8d9fa12dd41d8e5fedf330993f2dc2c.m3u8
+
+#EXTINF:-1 tvg-id="DisneyChannel" tvg-country="BR" tvg-language="Portuguese" tvg-logo="", Disney Channel
+https://list.iptvcat.com/my_list/s/4f95f155d68ed40bbfb30939ac6dc3ea.m3u8
+
+#EXTINF:-1 tvg-id="FoodNetwork" tvg-country="BR" tvg-language="Portuguese" tvg-logo="", Food Network
+https://list.iptvcat.com/my_list/s/41d18757e69345e024f8a9d5563c743e.m3u8
+
+#EXTINF:-1 tvg-id="Fox" tvg-country="BR" tvg-language="Portuguese" tvg-logo="", Fox
+https://list.iptvcat.com/my_list/s/389b57d54da1bee079cdb1056da9d417.m3u8
+
+#EXTINF:-1 tvg-id="FX" tvg-country="BR" tvg-language="Portuguese" tvg-logo="", FX
+https://list.iptvcat.com/my_list/s/1bb8e633cb7a0bf0576732a52e65823f.m3u8
+
+#EXTINF:-1 tvg-id="H2" tvg-country="BR" tvg-language="Portuguese" tvg-logo="", H2
+https://list.iptvcat.com/my_list/s/e75b690f31e120af8a2630ffd4a970ed.m3u8
+
+#EXTINF:-1 tvg-id="HBO" tvg-country="BR" tvg-language="Portuguese" tvg-logo="", HBO
+https://list.iptvcat.com/my_list/s/c0ac6fd41b8411d5b83ab9a310265bfe.m3u8
+
+#EXTINF:-1 tvg-id="HBOFamily" tvg-country="BR" tvg-language="Portuguese" tvg-logo="", HBO Family
+https://list.iptvcat.com/my_list/s/07dcbc328699cbcb53ce96bae1fce4df.m3u8
+
+#EXTINF:-1 tvg-id="HBOMax" tvg-country="BR" tvg-language="Portuguese" tvg-logo="", HBO Max
+https://list.iptvcat.com/my_list/s/6b529a834079da6e67e4cdf63d2e172c.m3u8
