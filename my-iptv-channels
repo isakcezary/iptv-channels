@@ -10,5 +10,5 @@ https://amc-amcpresents-2.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="LawCrime.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/HY64Nhe.png" group-title="Documentary",Law & Crime (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziolawandcrime/CDN/playlist.m3u8
 
-#EXTINF:-1 FOX
-https://list.iptvcat.com/my_list/s/caa4933fca9ab89794e97c15038afc6f.m3u8
+#EXTINF:-1 tvg-id="A&E.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="", A&E
+https://list.iptvcat.com/my_list/s/f1b979dc4cc8817e0c42e9ee981da25b.m3u8
